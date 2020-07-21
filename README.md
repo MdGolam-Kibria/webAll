@@ -1,3 +1,3 @@
 # webAll
 - sidebar.
-- using html,css,javascrip.  
+- using html,css,javascript.
